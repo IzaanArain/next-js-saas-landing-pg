@@ -1,20 +1,20 @@
-import StreamLabsLogo from "/assets/streamlabs-logo.png";
-import BroadcastlyLogo from "/assets/broadcastly-logo.png";
-import LiveStreamerLogo from "/assets/livestreamer-logo.png";
-import CloudCastLogo from "/assets/cloudcast-logo.png";
+import StreamLabsLogo from "/assets/streamlabs-logo.webp";
+import BroadcastlyLogo from "/assets/broadcastly-logo.webp";
+import LiveStreamerLogo from "/assets/livestreamer-logo.webp";
+import CloudCastLogo from "/assets/cloudcast-logo.webp";
 
-import streamImage from "/assets/streamer.jpeg";
-import chart from "/assets/chart.png";
-import optimize from "/assets/optimize.jpeg";
-import audienceEngagementImage from "/assets/audience.jpeg";
-import monetizeImage from "/assets/monetize.jpeg";
-import automationImage from "/assets/automation.jpeg";
-import user1 from "/assets/user1.jpeg";
-import user2 from "/assets/user2.jpeg";
-import user3 from "/assets/user3.jpeg";
-import user4 from "/assets/user4.jpeg";
-import user5 from "/assets/user5.jpeg";
-import user6 from "/assets/user6.jpeg";
+import streamImage from "/assets/streamer.webp";
+import chart from "/assets/chart.webp";
+import optimize from "/assets/optimize.webp";
+import audienceEngagementImage from "/assets/audience.webp";
+import monetizeImage from "/assets/monetize.webp";
+import automationImage from "/assets/automation.webp";
+import user1 from "/assets/user1.webp";
+import user2 from "/assets/user2.webp";
+import user3 from "/assets/user3.webp";
+import user4 from "/assets/user4.webp";
+import user5 from "/assets/user5.webp";
+import user6 from "/assets/user6.webp";
 
 import {
   RiBarChart2Line,
