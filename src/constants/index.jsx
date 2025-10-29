@@ -1,10 +1,10 @@
-import StreamLabsLogo from "/assets/streamlabs-logo.webp";
-import BroadcastlyLogo from "/assets/broadcastly-logo.webp";
-import LiveStreamerLogo from "/assets/livestreamer-logo.webp";
-import CloudCastLogo from "/assets/cloudcast-logo.webp";
+import StreamLabsLogo from "/assets/streamlabs-logo.png";
+import BroadcastlyLogo from "/assets/broadcastly-logo.png";
+import LiveStreamerLogo from "/assets/livestreamer-logo.png";
+import CloudCastLogo from "/assets/cloudcast-logo.png";
 
 import streamImage from "/assets/streamer.webp";
-import chart from "/assets/chart.webp";
+import chart from "/assets/chart.png";
 import optimize from "/assets/optimize.webp";
 import audienceEngagementImage from "/assets/audience.webp";
 import monetizeImage from "/assets/monetize.webp";

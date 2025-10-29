@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import logo from "../../public/assets/logo.webp";
+import logo from "../../public/assets/logo.png";
 import Image from "next/image";
 import Link from "next/link";
 import { RiCloseFill, RiMenu3Line } from "@remixicon/react";
